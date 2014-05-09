@@ -9,3 +9,4 @@ notifications:
   email:
     - exampleone@org.com
 auto_commit: true
+build_env: nodejs
